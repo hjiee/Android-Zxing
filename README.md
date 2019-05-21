@@ -1,2 +1,4 @@
 # Android-Zxing
-QR Code
+QR Code scan
+
+Need to customizing
